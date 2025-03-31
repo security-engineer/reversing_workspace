@@ -1,0 +1,4 @@
+FADD:/dreamhack/NewFolder
+FMV:/dreamhack/NewFolder:/dreamhack/just-read-memory
+IADD:00000004:/dreamhack/just-read-memory/main
+IDSET:/dreamhack/just-read-memory/main:c0a8327acfd025699663033625

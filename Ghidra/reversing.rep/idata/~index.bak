@@ -1,0 +1,13 @@
+VERSION=1
+/
+/dreamhack
+/dreamhack/flag-printer
+  00000003:flag-printer:c0a8327aca6916715682211750
+/dreamhack/rev-basic-0
+  00000002:chall0.exe:c0a8327aca4116545156036458
+/dreamhack/rev-basic-1
+  00000001:chall1.exe:c0a8327aca0515920781705875
+/dreamhack/simple-operation
+  00000000:chall:c0a8327ac98a15139649844041
+NEXT-ID:4
+MD5:d41d8cd98f00b204e9800998ecf8427e
